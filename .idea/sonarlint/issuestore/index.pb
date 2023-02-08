@@ -1,14 +1,40 @@
 
+?
+app/app/calc.py,3\1\31352f83fc55240617e7e75c85e91bc941cb6d4a
+@
+app/app/tests.py,3\b\3ba11207994c9ce5f1c3b1cd65f4406765eb3db2
 D
-requirements.dev.txt,e\5\e57a299cbb96b2af11e488452fbe5404e39cecdc
-;
-app/.flake8,6\2\62243180f4ea09f2fa0ebf32275ded0b719b9d32
+app/core/__init__.py,a\3\a3fe4ad76591e830f11671ae24cd80338af95756
+O
+app/core/migrations/__init__.py,9\a\9ad96e55b08446c919b5cb64fd73ae79ec4631ca
+J
+app/core/tests/__init__.py,e\c\ec8b4c8d857a421d74a69f3d8ef4b48177734284
+O
+app/core/management/__init__.py,f\a\fa45455117f0eca8924a711e3dc94e3ead08c8bf
+X
+(app/core/management/commands/__init__.py,9\1\918916f5bb8a5ee805fea7310442e1268d6ae934
+S
+#app/core/migrations/0001_initial.py,f\3\f39792ce315355d42fe480c0b8f5cbcd627e09b3
 =
 .dockerignore,0\5\05a721ebe3ba0754116825ed1359ff1785f4bbac
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-7
-LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+C
+app/app/__init__.py,0\c\0cc3a49e759c708ccb4028bbcee1dbfe1e9ea595
+?
+app/app/wsgi.py,d\2\d271f155d1efafd92fcda9c8096034c6356c0d17
+?
+app/app/asgi.py,f\6\f6e31a8627fb3fee54308ef93fc7449008297de5
+D
+requirements.dev.txt,e\5\e57a299cbb96b2af11e488452fbe5404e39cecdc
+@
+app/user/urls.py,6\e\6e915112bd2fef7175d2193755672339a9c8529f
+A
+app/user/views.py,c\d\cdb93a50d05b7a9abc46fca2f55ccd9b359a5788
+G
+app/user/serializers.py,f\a\fa17d08d006628e3dba939e826f244c89d84aa1a
+O
+app/user/tests/test_user_api.py,d\9\d9dbdadb6c1ac5aeac0afab655cbb995170bee24
