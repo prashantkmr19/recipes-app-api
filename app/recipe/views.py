@@ -1,6 +1,7 @@
 """
 Views for the recipe APIs
 """
+
 from drf_spectacular.utils import (
     extend_schema_view,
     extend_schema,
@@ -23,6 +24,7 @@ from core.models import (
     Tag,
     Ingredient,
 )
+
 from recipe import serializers
 
 
@@ -73,6 +75,7 @@ class RecipeViewSet(viewsets.ModelViewSet):
         """Return the serializer class for request."""
         if self.action == 'list':
             return serializers.RecipeSerializer
+
         elif self.action == 'upload_image':
             return serializers.RecipeImageSerializer
 
@@ -138,3 +141,4 @@ class IngredientViewSet(BaseRecipeAttrViewSet):
     """Manage ingredients in the database."""
     serializer_class = serializers.IngredientSerializer
     queryset = Ingredient.objects.all()
+

@@ -3,3 +3,9 @@ djangorestframework
 psycopg2
 drf-spectacular
 django-jenkins
+awscli
+zappa
+pep8
+pylint
+pyflakes
+uwsgi
