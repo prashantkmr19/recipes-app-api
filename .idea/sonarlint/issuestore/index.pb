@@ -64,3 +64,21 @@ M
 :
 
 Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+F
+proxy/default.conf.tpl,9\e\9e92c92c259f39580e76d7bf79575985bdf498aa
+@
+proxy/Dockerfile,4\d\4d12c017ddbc44b8c33a8d078058867001050f81
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+;
+.env.sample,8\4\84df4f99592c0f542d80a05bf5b4dd5552ddfd83
+C
+app/app/settings.py,1\5\15553f0d0a591c8d0334d386110c265a5f8f17f4
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+B
+proxy/uwsgi_params,1\1\114f4055063f2abede5543df4e79006dd5b9a14f
+<
+proxy/run.sh,3\2\32e9f65901a7a4d685025e86e4a9272469b12a3d
+I
+docker-compose-deploy.yml,5\9\59e68906683b9e58360bdd7f1379e8482ea08de8
